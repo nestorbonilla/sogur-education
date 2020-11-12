@@ -1,11 +1,11 @@
 # Challenge no. 1
-> Project for the **GitxChange Hackathon**
-> by **Nestor Bonilla**
+> Project for the **Sögur Bug Bounty & Hackathon**
+> by **Nestor Bonilla** 
 
-## Video Explanation Of Data Dignity
+## Content Creation: Why Sögur? Video/Infographic
 
-The video aims to be concise, full of animation, and intended for an audience without knowledge of these topics, guiding them in storytelling until we explain the central concept of Data Dignity.
+The video aims to be concise, and full of animation, to transmit the value of the SGR project and its proposition.
 
 ## Link
-* [Script](https://docs.google.com/document/d/1vkDZdE5f9NmWZGeYAutXDhhik68moMdZWSECUIql96k/edit?usp=sharing)
-* [Video](https://drive.google.com/file/d/1DsCrCD7Qo8MRqpQWBn_YXs5d_HwZ1JZb/view?usp=sharing)
+* [Script](https://docs.google.com/document/d/1Lpfd4KhGHELz2adHAtIwZbcqegz7hoLP_rNvkuT9_zg/edit?usp=sharing)
+* [Video]()
