@@ -7,5 +7,5 @@
 The video aims to be concise, and full of animation, to communicate the unique value proposition of the Monetary Model of Sögur.
 
 ## Link
-* [Script](https://docs.google.com/document/d/1iki0CZK6ZWqjx7OWgdK-_ol0bTN24ib3rDBlDVNdnYY/edit?usp=sharing)
+* [Script](https://docs.google.com/document/d/1iki0CZK6ZWqjx7OWgdK-_ol0bTN24ib3rDBlDVNdnYY)
 * [Video]()
