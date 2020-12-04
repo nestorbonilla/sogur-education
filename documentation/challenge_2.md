@@ -8,4 +8,4 @@ The video aims to be concise, and full of animation, to communicate the unique v
 
 ## Link
 * [Script](https://docs.google.com/document/d/1iki0CZK6ZWqjx7OWgdK-_ol0bTN24ib3rDBlDVNdnYY)
-* [Video]()
+* [Video](https://drive.google.com/file/d/1xyYt7YcPlDU72N1AXQG0IFwG46VQn1PS)

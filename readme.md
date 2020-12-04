@@ -9,4 +9,4 @@
 
 * [Challenge no. 1](https://github.com/nestorbonilla/sogur-education/tree/master/documentation/challenge_1.md)
 * [Challenge no. 2](https://github.com/nestorbonilla/sogur-education/tree/master/documentation/challenge_2.md)
-* [Bonus for Sögur (logo animation)](https://lottiefiles.com/24232-sogur)
+* [Bonus for Sögur (logo animation)](https://lottiefiles.com/40832-sogur)
